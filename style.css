@@ -1,0 +1,19 @@
+h2, h3, p {
+	margin: 12 px 0;
+	line-height: 1.5;
+	font-family: "LatoWeb","Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+h2 {
+	font-size: 1.85em;
+	margin: 6px 0;
+}
+
+h3{
+	font-size: 1.5em;
+	margin: 6px 0;
+}
+
+a {
+	color: #0054a6;
+}
