@@ -1,5 +1,6 @@
-h2, h3, p {
+body {
 	margin: 12 px 0;
+	padding: 5px 24px 0 12px;
 	line-height: 1.5;
 	font-family: "LatoWeb","Helvetica Neue",Helvetica,Arial,sans-serif;
 }
